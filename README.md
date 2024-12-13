@@ -87,7 +87,7 @@ We welcome contributions to improve this project. Please check the contribution 
 
 ## 📄 License
 
-[Specify the license here, e.g., MIT License]
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
